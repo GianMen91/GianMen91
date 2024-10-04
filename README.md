@@ -9,7 +9,7 @@
 
 <h3 align="left">:mailbox: How to reach me:</h3>
  <p align="left">
- <a href="iamgiancarlomennillo.de"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white"></a>
+ <a href="https://iamgiancarlomennillo.de/"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/giancarlo-mennillo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="mailto:giancarlo.mennillo@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  
